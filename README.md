@@ -12,9 +12,9 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Test Skill 1                                  | <a href="https://google.com">Test Project 1</a>|
+| Test Skill 2                                  | <a href="https://google.com">Test Project 2</a>|
+| Test Skill 3                                  | Test Project 3|
 
 
 ## Tools
@@ -53,5 +53,6 @@ Here, you'll find my projects and contributions focused on enhancing security me
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Test Project 1
+- Test Project 2
+- Test Project 3
