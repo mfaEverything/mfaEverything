@@ -1,6 +1,6 @@
 # Welcome to my GitHub! I'm Dallas
 
-<a href="https://linkedin.com/in/cardenasdallas"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=plastic&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cardenasdallas"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Systems Administrator with a passion for cybersecurity and a background in managing and securing IT environments.
 
@@ -15,9 +15,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
@@ -30,7 +28,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-z<img src="https://img.shields.io/badge/-Symantec-FF6F00?&style=for-the-badge&logo=symantec&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Symantec-FF6F00?&style=for-the-badge&logo=symantec&logoColor=white" />
 </div>
 
 ### SIEM
