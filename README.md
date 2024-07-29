@@ -12,7 +12,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Implementing and Managing SIEM with Azure Sentinel | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
+| Implementing and Managing a SIEM with Azure Sentinel | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
 
 
 
