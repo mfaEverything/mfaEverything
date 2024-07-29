@@ -12,9 +12,9 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Test Skill 1                                  | <a href="https://google.com">Test Project 1</a>|
-| Test Skill 2                                  | <a href="https://google.com">Test Project 2</a>|
-| Test Skill 3                                  | Test Project 3|
+| Example Skill 1                                  | <a href="https://google.com">Example Project 1</a>|
+| Example Skill 2                                  | <a href="https://google.com">Example Project 2</a>|
+| Example Skill 3                                  | Example Project 3|
 
 
 ## Tools
@@ -53,6 +53,6 @@ Here, you'll find my projects and contributions focused on enhancing security me
 </div>
 
 ## Projects
-- Test Project 1
-- Test Project 2
-- Test Project 3
+- Example Project 1
+- Example Project 2
+- Example Project 3
