@@ -12,7 +12,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example Skill 1                                  | <a href="https://google.com">Example Project 1</a>|
+| Example Skill 1                                  | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
 | Example Skill 2                                  | <a href="https://google.com">Example Project 2</a>|
 | Example Skill 3                                  | Example Project 3|
 
@@ -53,6 +53,6 @@ Here, you'll find my projects and contributions focused on enhancing security me
 </div>
 
 ## Projects
-- <a href="https://google.com"> SIEM: Azure Sentinel 
+- <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel 
 - Example Project 2
 - Example Project 3
