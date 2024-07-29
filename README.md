@@ -13,8 +13,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Implementing and Managing SIEM with Azure Sentinel | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
-| Example Skill 2                                  | <a href="https://google.com">Example Project 2</a>|
-| Example Skill 3                                  | Example Project 3|
+
 
 
 ## Tools
@@ -22,19 +21,16 @@ Here, you'll find my projects and contributions focused on enhancing security me
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zabbix-FF0000?&style=for-the-badge&logo=zabbix&logoColor=white" /> 
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Symantec-FF6F00?&style=for-the-badge&logo=symantec&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-003E6C?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
@@ -54,5 +50,3 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 ## Projects
 - <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel 
-- Example Project 2
-- Example Project 3
