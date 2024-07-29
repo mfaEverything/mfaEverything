@@ -12,7 +12,7 @@ Here, you'll find my projects and contributions focused on enhancing security me
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example Skill 1                                  | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
+| Implementing and Managing SIEM with Azure Sentinel | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
 | Example Skill 2                                  | <a href="https://google.com">Example Project 2</a>|
 | Example Skill 3                                  | Example Project 3|
 
