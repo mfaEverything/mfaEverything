@@ -48,7 +48,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
 CERTIFICATIONS
 
 <div>
-    <img weight=100 height=100 src="SecurityPlus Logo Certified CE.png">
+    <img weight=90 height=90 src="Security+.png">
     <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
