@@ -9,12 +9,13 @@
 
 </h3>
 
+<h3 align="center">
+    
+I am a Systems Administrator with a passion for cybersecurity and a background in managing and securing IT environments. Here, you'll find my projects and contributions focused on 
+enhancing security measures and protecting organizational assets. Feel free to explore and connect!.
 
-I am a Systems Administrator with a passion for cybersecurity and a background in managing and securing IT environments.
+</h3>
 
-## Overview
-
-Here, you'll find my projects and contributions focused on enhancing security measures and protecting organizational assets. Feel free to explore and connect!.
 
 ## Skills
 
@@ -42,7 +43,12 @@ Here, you'll find my projects and contributions focused on enhancing security me
     <img src="https://img.shields.io/badge/-IBM%20QRadar-003E6C?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
-## Certifications
+<h2 align="center"> 
+   
+    CERTIFICATIONS
+
+
+
 <div>
     <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,8 +59,11 @@ Here, you'll find my projects and contributions focused on enhancing security me
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/ITIL®%20Foundation-4B275F?&style=for-the-badge&logo=ITIL&logoColor=white" />
     <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-00A4EF?style=for-the-badge&logo=Linux&logoColor=white" />
-
 </div>
+
+</h2>
+
+<img weight=200 height=200 src="network-defense.png">
 
 ## Projects
 - <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel 
