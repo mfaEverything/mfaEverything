@@ -50,6 +50,7 @@ CERTIFICATIONS
 <div>
     <img width=125 height=125 src="CySA+"> 
     <img width=125 height=125 src="PenTest+">
+    <img width=125 height=125 src="AWS Cloud Practitioner">
 <div>  
     <img weight=100 height=100 src="Security+">
     <img weight=100 height=100 src="Network+">
@@ -58,7 +59,7 @@ CERTIFICATIONS
    
 
     
-    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+  
     <img src="https://img.shields.io/badge/ITIL®%20Foundation-4B275F?&style=for-the-badge&logo=ITIL&logoColor=white" />
     <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-00A4EF?style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
