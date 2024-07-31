@@ -48,12 +48,16 @@ enhancing security measures and protecting organizational assets. Feel free to e
 CERTIFICATIONS
 
 <div>
-    <img weight=90 height=90 src="Security+.png">
-    <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img width=125 height=125 src="CySA+"> 
+    <img width=125 height=125 src="PenTest+">
+<div>  
+    <img weight=100 height=100 src="Security+">
+    <img weight=100 height=100 src="Network+">
+    <img weight=100 height=100 src="Project+">
+
+   
+
+    
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/ITIL®%20Foundation-4B275F?&style=for-the-badge&logo=ITIL&logoColor=white" />
     <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-00A4EF?style=for-the-badge&logo=Linux&logoColor=white" />
