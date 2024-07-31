@@ -48,23 +48,30 @@ enhancing security measures and protecting organizational assets. Feel free to e
 CERTIFICATIONS
 
 <div>
-    <img width=125 height=125 src="AWS Cloud Practitioner">
-    <img weight=125 height=125 src="LPI Logo">
-    <img width=125 height=125 src="ITIL">
+    <img weight=100 height=100 src="PenTest+">
+    <img weight=125 height=100 src="LPI Logo">
+    <img weight=100 height=100 src="CySA+"> 
+
     
     
+
+
 <div>  
-    <img width=125 height=125 src="CySA+"> 
-    <img weight=100 height=100 src="Security+">
-    <img weight=100 height=100 src="Network+">
-    <img weight=100 height=100 src="Project+">
-    <img width=125 height=125 src="PenTest+">
+    <img weight=100 height=70 src="AWS Cloud Practitioner">
+    <img weight=100 height=70 src="Security+">
+    <img weight=100 height=70 src="Network+">
+    <img weight=100 height=70 src="Project+">
+    <img weight=125 height=70 src="ITIL">
+    
+  
+   
+    
    
     
 
     
 
-    <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-00A4EF?style=for-the-badge&logo=Linux&logoColor=white" />
+   
 </div>
 
 </h2>
