@@ -44,10 +44,8 @@ enhancing security measures and protecting organizational assets. Feel free to e
 </div>
 
 <h2 align="center"> 
-   
-    CERTIFICATIONS
 
-
+CERTIFICATIONS
 
 <div>
     <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
