@@ -61,7 +61,9 @@ CERTIFICATIONS
 
 </h2>
 
-<img weight=200 height=200 src="network-defense.png">
+<img weight=100 height=100 src="SecurityPlus Logo Certified CE.png">
+
+
 
 ## Projects
 - <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel 
