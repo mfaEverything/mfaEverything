@@ -47,11 +47,14 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 CERTIFICATIONS
 <div>
-    <img weight=100 height=100 src="CySA+">
-    <img weight=100 height=100 src="Security+">
-    <img weight=100 height=100 src="Network+">
-    <img weight=100 height=100 src="PenTest+">
-    <img weight=100 height=100 src="Project+">
+    <img weight=100 height=90 src="CySA+">
+    <img weight=100 height=90 src="Security+">
+    <img weight=100 height=90 src="Network+">
+    <img weight=100 height=90 src="PenTest+">
+    <img weight=100 height=90 src="Project+">
+    <img weight=100 height=90 src="AWS">
+    <img weight=100 height=90 src="ITIL">
+    <img weight=100 height=90 src="LPI">
   
    
 
