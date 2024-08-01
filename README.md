@@ -47,15 +47,10 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 CERTIFICATIONS
 <div>
-    <img weight=100 height=100 src="PenTest+">
-    <img weight=100 height=70 src="AWS Cloud Practitioner">
-    <img weight=100 height=70 src="Security+">
-    <img weight=100 height=70 src="Network+">
-    <img weight=100 height=70 src="Project+">
-    <img weight=125 height=70 src="ITIL">
-    <img weight=100 height=100 src="CySA+"> 
-    <img weight=125 height=100 src="LPI Logo">
-</div>
+    <img weight=100 height=100 src="PenTest_800x730.png">
+    <img weight=100 height=100 src="PenTest_800x730.png">
+    <img weight=100 height=100 src="PenTest_800x730.png">
+   
 
 </h2>
 
