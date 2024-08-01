@@ -48,7 +48,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
 CERTIFICATIONS
 <div>
     <img weight=100 height=100 src="ProjectPlus Logo Certified.png">
-    <img weight=100 height=150 src="PenTest_800x730.png">
+    <img weight=100 height=100 src="PenTest_1_cropped.png">
     <img weight=100 height=100 src="ProjectPlus Logo Certified.png">
    
 
