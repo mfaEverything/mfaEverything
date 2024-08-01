@@ -9,60 +9,50 @@
 
 </h2>
 
-<h3 align="center">
+<h5 align="center">
     
 I am a Systems Administrator with a passion for cybersecurity and a background in managing and securing IT environments. Here, you'll find my projects and contributions focused on 
 enhancing security measures and protecting organizational assets. Feel free to explore and connect!.
 
-</h3>
+</h5>
 
+<h2 align="center"> PROJECTS 
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Implementing and Managing a SIEM with Azure Sentinel | <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel |
-
-
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
+
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM%20QRadar-003E6C?&style=for-the-badge&logo=IBM&logoColor=white" />
-</div>
-
-<h2 align="center"> 
-
-CERTIFICATIONS
-<div>
-    <img weight=100 height=90 src="CySA+">
-    <img weight=100 height=90 src="Security+">
-    <img weight=100 height=90 src="Network+">
-    <img weight=100 height=90 src="PenTest+">
-    <img weight=100 height=90 src="Project+">
-    <img weight=100 height=90 src="AWS">
-    <img weight=100 height=90 src="ITIL">
-    <img weight=100 height=90 src="LPI">
-  
-   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
 
 </h2>
 
+</div>
 
+<h2 align="center"> 
+    
+CERTIFICATIONS 
 
+<div>
+    <img weight=100 height=65 src="CySA+">
+    <img weight=100 height=65 src="Security+">
+    <img weight=100 height=65 src="Network+">
+    <img weight=100 height=65 src="PenTest+">
+    <img weight=100 height=65 src="Project+">
+    <img weight=100 height=65 src="AWS">
+    <img weight=100 height=65 src="ITIL">
+    <img weight=100 height=65 src="LPI">
+    
+</h2>
 
+</div>
 
-## Projects
-- <a href="https://github.com/mfaEverything/LAB_AzureSentinel"> SIEM: Azure Sentinel 
+<h2 align="right">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mfaEverything.mfaEverything&left_color=black&right_color=red)
+</h2>
