@@ -1,4 +1,4 @@
-<h1 align="center"> Dallas | mfaEverything :computer: </h1>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,21&height=180&section=header&text=Dallas&#160|&#160mfaEverything&#160💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h2 align="center">
 
