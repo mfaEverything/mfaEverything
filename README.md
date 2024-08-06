@@ -16,19 +16,52 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 </h5>
 
-<h4 align="center"> PROJECTS 
+&nbsp;
 
+
+<h4 align="center"> 【﻿ Projects 】
+    
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://google.com">
+          <img weight=100 height=65 src="CySA+">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shemmee/NFT-Portfolio-Landing-Page">
+          <img weight=100 height=65 src="CySA+">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/s-shemmee/ChatNow">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shemmee/Dictionary-React-App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shemmee/React-Weather-App">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/s-shemmee/MoviePitch">
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlx-graphs&repo=mlx-graphs)](https://github.com/mlx-graphs/mlx-graphs) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ml-explore&repo=mlx)](https://github.com/ml-explore/mlx)
 
 </h4>
 
@@ -36,7 +69,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 <h4 align="center"> 
     
-CERTIFICATIONS 
+【﻿ Certifications 】
 
 <div>
     <img weight=100 height=65 src="CySA+">
@@ -54,7 +87,7 @@ CERTIFICATIONS
 
 <h4 align="center"> 
 
-TOOLBOX
+ 【﻿ Tool Box 】
 
 </h4>
 
@@ -104,7 +137,8 @@ TOOLBOX
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 <h4 align="right"> 
     
