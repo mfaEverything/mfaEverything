@@ -1,4 +1,4 @@
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,21&height=180&section=header&text=Dallas&#160|&#160mfaEverything&#160💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=180&section=header&text=Dallas&#160|&#160mfaEverything&#160💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h2 align="center">
 
@@ -35,36 +35,36 @@ enhancing security measures and protecting organizational assets. Feel free to e
         <tr align="center">
             <th align="center">
                 <a href="https://google.com">
-               <img src="https://gh-card.dev/repos/mfaEverything/mfaEverything.png?&bg_color=0D1117&border_color=ff0000&hide_border=true">
+               <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=monokai&hide_border=true&show_icons=true&bg_color=36454F" alt="LAB_AzureSentinel" />
                 </a>
             </th>
             <th align="center">
                 <a href="https://github.com/montasim/a-coders-diary"  target="_blank" rel="noopener noreferrer">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
         </tr>
         <tr align="center">
             <th align="center">
                 <a href="https://github.com/montasim/manufacturer-website-client"  target="_blank" rel="noopener noreferrer">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=monokai&bg_color=0D1117&hide_border=false&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
             <th align="center">
                 <a href="https://github.com/montasim/warehouse-management-client"  target="_blank" rel="noopener noreferrer">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=monokai&bg_color=0D1117&hide_border=false&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
         </tr>
         <tr align="center">
             <th align="center">
                 <a href="https://github.com/montasim/manufacturer-website-client"  target="_blank" rel="noopener noreferrer">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=monokai&bg_color=0D1117&hide_border=false&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
             <th align="center">
                 <a href="https://github.com/montasim/warehouse-management-client"  target="_blank" rel="noopener noreferrer">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=monokai&bg_color=0D1117&hide_border=false&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
         </tr>
