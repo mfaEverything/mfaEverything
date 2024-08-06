@@ -18,8 +18,10 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 
 
+</div>
 
 
+ 
 
 &nbsp;
 
@@ -33,7 +35,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
         <tr align="center">
             <th align="center">
                 <a href="https://google.com">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+               <img src="https://gh-card.dev/repos/mfaEverything/mfaEverything.png?&bg_color=0D1117&border_color=ff0000&hide_border=true">
                 </a>
             </th>
             <th align="center">
