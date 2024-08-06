@@ -21,10 +21,6 @@ enhancing security measures and protecting organizational assets. Feel free to e
 </div>
 
 
- 
-
-&nbsp;
-
 <h4 align="center"> 【﻿ Projects 】
 
 </h4>
