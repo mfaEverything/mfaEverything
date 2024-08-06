@@ -20,50 +20,50 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 
 <h4 align="center"> 【﻿ Projects 】
-    
-</div>
-
-
-
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://google.com">
-          <img weight=100 height=65 src="CySA+">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shemmee/NFT-Portfolio-Landing-Page">
-          <img weight=100 height=65 src="CySA+">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/s-shemmee/ChatNow">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shemmee/Dictionary-React-App">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shemmee/React-Weather-App">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/s-shemmee/MoviePitch">
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 </h4>
+
+</div>
+<table align="center">
+    <thead align="center">
+        <tr align="center">
+            <th align="center">
+                <a href="https://google.com">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/montasim/a-coders-diary"  target="_blank" rel="noopener noreferrer">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+        </tr>
+        <tr align="center">
+            <th align="center">
+                <a href="https://github.com/montasim/manufacturer-website-client"  target="_blank" rel="noopener noreferrer">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/montasim/warehouse-management-client"  target="_blank" rel="noopener noreferrer">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+        </tr>
+        <tr align="center">
+            <th align="center">
+                <a href="https://github.com/montasim/manufacturer-website-client"  target="_blank" rel="noopener noreferrer">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://github.com/montasim/warehouse-management-client"  target="_blank" rel="noopener noreferrer">
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
 
 </div>
 
