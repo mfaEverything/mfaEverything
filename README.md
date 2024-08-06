@@ -18,7 +18,6 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 &nbsp;
 
-
 <h4 align="center"> 【﻿ Projects 】
 
 </h4>
@@ -29,7 +28,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
         <tr align="center">
             <th align="center">
                 <a href="https://google.com">
-                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
+                    <img align="center" width="275" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=ff0000&hide_border=true" alt="repository badge" >
                 </a>
             </th>
             <th align="center">
