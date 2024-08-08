@@ -191,6 +191,6 @@ enhancing security measures and protecting organizational assets. Feel free to e
     
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mfaEverything.mfaEverything&left_color=black&right_color=red)](https://github.com/MFAEVERYTHING)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://account.venmo.com/u/mfaeverything)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cash.app/$mfaeverything)
 
 </h4>
