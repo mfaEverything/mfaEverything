@@ -177,25 +177,6 @@ enhancing security measures and protecting organizational assets. Feel free to e
 </p>
 
 
-<p align="center">
-&nbsp 
-</p>
-
-</div> 
-
-<p align="center">
-&nbsp 
-</p>
-
-<p align="center">
-&nbsp 
-</p>
-
-</div> 
-
-<p align="center">
-&nbsp 
-</p>
 
 
 <h4 align="center"> 
