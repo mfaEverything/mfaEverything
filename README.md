@@ -170,14 +170,33 @@ enhancing security measures and protecting organizational assets. Feel free to e
    
 </p>
 
-
+<p align="center">
 
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
-</div> &nbsp
-</div> &nbsp
-</div> &nbsp
-</div> &nbsp
+</p>
+
+
+<p align="center">
+&nbsp 
+</p>
+
+</div> 
+
+<p align="center">
+&nbsp 
+</p>
+
+<p align="center">
+&nbsp 
+</p>
+
+</div> 
+
+<p align="center">
+&nbsp 
+</p>
+
 
 <h4 align="center"> 
     
