@@ -39,36 +39,36 @@ enhancing security measures and protecting organizational assets. Feel free to e
         <tr align="center">
             <th align="center">
                 <a href="https://google.com">
-               <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+               <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
             <th align="center">
                 <a href="https://google.com">
-                <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
-                </a>
-            </th>
-        </tr>
-        <tr align="center">
-            <th align="center">
-                <a href="https://google.com">
-                <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
-                </a>
-            </th>
-            <th align="center">
-                <a href="https://google.com">
-                <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+                <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
         </tr>
         <tr align="center">
             <th align="center">
                 <a href="https://google.com">
-                <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+                <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
             <th align="center">
                 <a href="https://google.com">
-                <img align="center" width="275" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+                <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+                </a>
+            </th>
+        </tr>
+        <tr align="center">
+            <th align="center">
+                <a href="https://google.com">
+                <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://google.com">
+                <img align="center" width="275" height="80" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaEverything&repo=LAB_AzureSentinel&theme=holi&bg_color=36454F&hide_border=true&show_icons=true" alt="LAB_AzureSentinel" />
                 </a>
             </th>
         </tr>
