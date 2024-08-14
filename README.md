@@ -29,7 +29,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
 
 
 
-<!-- PROJECTS TABLE -->
+<!-- PROJECTS TABLE START
 
 <h4 align="center"> 【﻿ Projects 】</h4>
 
@@ -75,7 +75,7 @@ enhancing security measures and protecting organizational assets. Feel free to e
     </thead>
 </table>
 
-
+PROJECTS TABLE END -->
 
 <!-- CERTS -->
 
